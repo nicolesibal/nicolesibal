@@ -1,6 +1,6 @@
 # Greetings! I am Nicole Margareth Sibal 
 
-I am currently a **3rd year Cybersecurity student** at **Holy Angel University (HAU)**. I am interested in **digital forensics** and **psychology**.
+A **3rd year Cybersecurity student** at **Holy Angel University (HAU)**. I am interested in **digital forensics**, **robotics**, and **psychology**.
 
 ## Tech Stack
 
