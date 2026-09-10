@@ -6,8 +6,8 @@ A **3rd year Cybersecurity student** at **Holy Angel University (HAU)**. I am in
 ## 🏆 Milestones & Community
 - **Leadership**: <img src="CSIA-2627-LOGO.PNG" width="25" align="absmiddle"> Vice President of Internal Affairs of Cybersecurity Intelligence Alliance
 - **Volunteerism**:
-  - <img src="DEVCON-PH-LOGO.PNG" width="25" align="absmiddle"> DEVCON Pampanga Core Team Member
-  - <img src="AWS-ENOVATORS-LOGO.PNG" width="25" align="absmiddle"> AWS e:Novators Programs Committee Member
+  - <img src="DEVCON-PH-LOGO.png" width="25" align="absmiddle"> DEVCON Pampanga Core Team Member
+  - <img src="AWS-ENOVATORS-LOGO.png" width="25" align="absmiddle"> AWS e:Novators Programs Committee Member
 
 
 ## 💻 Tech Stack
