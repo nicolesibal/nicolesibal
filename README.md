@@ -3,6 +3,7 @@
 A **3rd year Cybersecurity student** at **Holy Angel University (HAU)**. I am interested in **digital forensics**, **robotics**, and **psychology**.
 
 ## 🏆 Milestones & Community
+**Leadership**: <img src="CSIA-2627-LOGO.PNG" width="25" align="absmiddle"> Vice President of Internal Affairs of Cybersecurity Intelligence Alliance | Active in various tech volunteer works
 
 
 ## 💻 Tech Stack
